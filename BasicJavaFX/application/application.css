@@ -1,0 +1,27 @@
+.buttonon{
+	-fx-background-color: #201D1E;
+	-fx-background-radius: 2px;
+	-fx-border-color: #201D1E;
+	-fx-text-fill: white;
+	-fx-border-radius: 2px;
+}
+
+.buttonoff{
+	-fx-background-color: white;
+	-fx-border-color: #201D1E;
+	-fx-text-fill: #201D1E;
+	-fx-border-radius: 2px;	
+}
+
+.mytitle{
+    -fx-font-family: "Shadows Into Light";
+    -fx-font-size: 36.0px;
+    
+}
+
+.fondo{ 
+	-fx-background-image: url("bosque.jpg");
+	-fx-background-size: 100%;
+	-fx-background-repeat: no-repeat ;
+	
+}
